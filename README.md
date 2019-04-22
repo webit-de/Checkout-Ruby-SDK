@@ -19,7 +19,7 @@ Please refer to the [PayPal Checkout Integration Guide](https://developer.paypal
 
 It is not mandatory to fork this repository for using the PayPal SDK. You can refer [PayPal Checkout Server SDK](https://developer.paypal.com/docs/checkout/reference/server-integration) for configuring and working with SDK without forking this code.
 
-For contirbuting or referrring the samples, You can fork/refer this repository. 
+For contributing or referring the samples, You can fork/refer this repository. 
 
 ### Setting up credentials
 Get client ID and client secret by going to https://developer.paypal.com/developer/applications and generating a REST API app. Get <b>Client ID</b> and <b>Secret</b> from there.
